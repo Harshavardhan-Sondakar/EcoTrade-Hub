@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "material": "Plastic Bottles",
+    "recyclingInfo": "Rinse and recycle in designated plastic bin. Check local guidelines for accepted plastic types.",
+    "recycleSuggestion": "Plastic bottles can be recycled into new bottles, clothing, carpet, and other plastic products.",
+    "reuseSuggestion": "Reuse plastic bottles as storage containers, planters, or for crafting projects."
+  },
+  {
+    "id": 2,
+    "material": "Glass Bottles",
+    "recyclingInfo": "Rinse and recycle in designated glass bin. Remove lids (usually recyclable separately).",
+    "recycleSuggestion": "Glass bottles can be recycled into new bottles, jars, fiberglass insulation, and other glass products.",
+    "reuseSuggestion": "Reuse glass bottles as vases, candle holders, or for DIY crafts."
+  },
+  {
+    "id": 3,
+    "material": "Paper",
+    "recyclingInfo": "Separate from other materials like food scraps. Recycle clean paper and cardboard in designated bin.",
+    "recycleSuggestion": "Paper can be recycled into new paper products, cardboard boxes, and packaging materials.",
+    "reuseSuggestion": "Reuse paper for crafts, wrapping gifts, or as packing material."
+  },
+  {
+    "id": 4,
+    "material": "Aluminum Cans",
+    "recyclingInfo": "Rinse (optional) and recycle in designated metal bin.",
+    "recycleSuggestion": "Aluminum cans can be recycled into new cans, aluminum foil, and automotive parts.",
+    "reuseSuggestion": "Reuse aluminum cans for crafts, storage containers, or as planters."
+  },
+  {
+    "id": 5,
+    "material": "Cardboard",
+    "recyclingInfo": "Flatten cardboard boxes for better sorting. Recycle in designated cardboard bin.",
+    "recycleSuggestion": "Cardboard can be recycled into new cardboard boxes, paperboard, and packaging materials.",
+    "reuseSuggestion": "Reuse cardboard for crafts, as backing for notebooks, or as protection for floors when painting."
+  },
+  {
+    "id": 6,
+    "material": "Metal Containers",
+    "recyclingInfo": "Rinse (optional)  and recycle clean food cans in designated metal bin. Check local guidelines for other metal containers.",
+    "recycleSuggestion": "Metal containers can be recycled into new metal products, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse metal containers for storage, as planters, or for organizing small items."
+  },
+  {
+    "id": 7,
+    "material": "Newspaper",
+    "recyclingInfo": "Recycle in designated paper bin. Remove plastic inserts or glossy advertising.",
+    "recycleSuggestion": "Newspapers can be recycled into new newspapers, paperboard, and packaging materials.",
+    "reuseSuggestion": "Reuse newspaper for cleaning windows, wrapping fragile items, or as padding for packaging."
+  },
+  {
+    "id": 8,
+    "material": "Metal Foil",
+    "recyclingInfo": "Clean and crumple aluminum foil before recycling in designated metal bin.",
+    "recycleSuggestion": "Metal foil can be recycled into new aluminum foil, aluminum products, and automotive parts.",
+    "reuseSuggestion": "Reuse metal foil for crafts, as temporary covers for dishes, or for sculpting."
+  },
+  {
+    "id": 9,
+    "material": "Juice Boxes",
+    "recyclingInfo": "Check local guidelines for juice box recycling. Some require separating the plastic and paper components.",
+    "recycleSuggestion": "Juice boxes can be recycled into paper products, cardboard, and other paper-based materials.",
+    "reuseSuggestion": "Reuse juice boxes for crafts, as organizers, or as containers for small items."
+  },
+  {
+    "id": 10,
+    "material": "Milk Cartons",
+    "recyclingInfo": "Check local guidelines for milk carton recycling. Some require emptying and drying first.",
+    "recycleSuggestion": "Milk cartons can be recycled into paper products, cardboard, and other paper-based materials.",
+    "reuseSuggestion": "Reuse milk cartons for crafts, as organizers, or as containers for liquids."
+  },
+  {
+    "id": 11,
+    "material": "Tetra Pak Cartons",
+    "recyclingInfo": "Check local guidelines for Tetra Pak cartons (e.g., soup or almond milk containers). Some require special programs.",
+    "recycleSuggestion": "Tetra Pak cartons can be recycled into paper products, cardboard, and other paper-based materials.",
+    "reuseSuggestion": "Reuse Tetra Pak cartons for crafts, as organizers, or as containers for liquids."
+  },
+  {
+    "id": 12,
+    "material": "Appliance Boxes",
+    "recyclingInfo": "Break down large appliance boxes and flatten for recycling in designated cardboard bin.",
+    "recycleSuggestion": "Appliance boxes can be recycled into new cardboard boxes, paperboard, and packaging materials.",
+    "reuseSuggestion": "Reuse appliance boxes for storage, shipping items, or as backing for posters."
+  },
+  {
+    "id": 13,
+    "material": "Office Paper",
+    "recyclingInfo": "Recycle clean printer paper, envelopes, and notebooks in designated paper bin.",
+    "recycleSuggestion": "Office paper can be recycled into new paper products, cardboard, and other paper-based materials.",
+    "reuseSuggestion": "Reuse office paper for printing drafts, making notes, or as packing material."
+  },
+  {
+    "id": 14,
+    "material": "Cardboard Tubes (toilet paper rolls, paper towel rolls)",
+    "recyclingInfo": "Check local guidelines for cardboard tube recycling. Some programs accept them, while others don't.",
+    "recycleSuggestion": "Cardboard tubes can be recycled into new cardboard products, paperboard, and packaging materials.",
+    "reuseSuggestion": "Reuse cardboard tubes for crafts, as organizers, or as toys for pets."
+  },
+  {
+    "id": 15,
+    "material": "Metal Food Trays (aluminum)",
+    "recyclingInfo": "Rinse (optional) and recycle clean aluminum food trays in designated metal bin.",
+    "recycleSuggestion": "Metal food trays can be recycled into new aluminum products, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse metal food trays for crafts, as organizers, or for serving food."
+  },
+  {
+    "id": 16,
+    "material": "Plastic Egg Cartons",
+    "recyclingInfo": "Check local guidelines for plastic egg carton recycling. Some programs accept them, while others don't.",
+    "recycleSuggestion": "Plastic egg cartons can be recycled into new plastic products, packaging materials, and insulation.",
+    "reuseSuggestion": "Reuse plastic egg cartons for crafts, as organizers, or as containers for small items."
+  },
+  {
+    "id": 17,
+    "material": "Glass Jars",
+    "recyclingInfo": "Rinse and recycle in designated glass bin. Remove lids (usually metal and recycled separately).",
+    "recycleSuggestion": "Glass jars can be recycled into new jars, bottles, fiberglass, and construction materials.",
+    "reuseSuggestion": "Reuse glass jars for storing food, organizing small items, or as containers for homemade gifts."
+  },
+  {
+    "id": 18,
+    "material": "Tin Cans",
+    "recyclingInfo": "Rinse (optional) and recycle clean tin cans in designated metal bin.",
+    "recycleSuggestion": "Tin cans can be recycled into new metal products, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse tin cans for crafts, as organizers, or for holding small items."
+  },
+  {
+    "id": 19,
+    "material": "Plastic Clamshells",
+    "recyclingInfo": "Check local guidelines for plastic clamshell recycling. Some programs accept them, while others don't.",
+    "recycleSuggestion": "Plastic clamshells can be recycled into new plastic products, packaging materials, and insulation.",
+    "reuseSuggestion": "Reuse plastic clamshells for crafts, as organizers, or as containers for small items."
+  },
+  {
+    "id": 20,
+    "material": "Metal Beverage Cans",
+    "recyclingInfo": "Recycle steel or aluminum beverage cans in designated metal bin.",
+    "recycleSuggestion": "Metal beverage cans can be recycled into new cans, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse metal beverage cans for crafts, as organizers, or for holding small items."
+  },
+  {
+    "id": 21,
+    "material": "Plastic Containers",
+    "recyclingInfo": "Rinse and recycle plastic containers such as yogurt cups, margarine tubs, and salad dressing bottles in designated plastic recycling bins. Check local guidelines for accepted plastic types.",
+    "recycleSuggestion": "Plastic containers can be recycled into new plastic products, packaging materials, and construction materials.",
+    "reuseSuggestion": "Reuse plastic containers for storage, organizing small items, or as planters."
+  },
+  {
+    "id": 22,
+    "material": "Steel Cans",
+    "recyclingInfo": "Rinse (optional) and recycle steel cans from canned food items in designated metal recycling bins.",
+    "recycleSuggestion": "Steel cans can be recycled into new metal products, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse steel cans for crafts, as organizers, or for holding small items."
+  },
+  {
+    "id": 23,
+    "material": "Aluminum Foil Pans",
+    "recyclingInfo": "Clean and recycle aluminum foil pans after use in designated metal recycling bins. Make sure they are free of food residue.",
+    "recycleSuggestion": "Aluminum foil pans can be recycled into new aluminum products, automotive parts, and construction materials.",
+    "reuseSuggestion": "Reuse aluminum foil pans for crafts, as organizers, or for serving food."
+  },
+  {
+    "id": 24,
+    "material": "Plastic Bags",
+    "recyclingInfo": "Many grocery stores accept plastic bags for recycling. Check with your local grocery store for drop-off locations. Some recycling programs also accept plastic bags for curbside collection.",
+    "recycleSuggestion": "Plastic bags can be recycled into new plastic products, composite lumber, and plastic pallets.",
+    "reuseSuggestion": "Reuse plastic bags for carrying groceries, lining trash cans, or as packing material."
+  },
+  {
+    "id": 25,
+    "material": "Electronics",
+    "recyclingInfo": "Recycle old electronics such as computers, cell phones, and printers at designated electronic recycling centers. Many electronics retailers also offer recycling programs for old devices.",
+    "recycleSuggestion": "Electronics can be recycled to recover valuable metals, plastics, and other materials for manufacturing new products.",
+    "reuseSuggestion": "Reuse electronics by donating them to charities, selling them online, or repurposing them for DIY projects."
+  },
+  {
+    "id": 26,
+    "material": "Batteries",
+    "recyclingInfo": "Recycle household batteries, including alkaline, lithium, and rechargeable batteries, at designated battery recycling centers or drop-off locations.",
+    "recycleSuggestion": "Batteries can be recycled to recover valuable metals and prevent hazardous materials from contaminating the environment.",
+    "reuseSuggestion": "Reuse batteries by using rechargeable batteries, or repurposing them for low-power devices."
+  },
+  {
+    "id": 27,
+    "material": "Textiles",
+    "recyclingInfo": "Donate old clothing, linens, and textiles to thrift stores or textile recycling centers. Some municipalities offer textile recycling programs for curbside collection.",
+    "recycleSuggestion": "Textiles can be recycled into new clothing, insulation, and cleaning cloths.",
+    "reuseSuggestion": "Reuse textiles for crafts, as cleaning rags, or donate them to organizations in need."
+  },
+  {
+    "id": 28,
+    "material": "Plastic Plant Pots",
+    "recyclingInfo": "Some recycling programs accept plastic plant pots and trays for recycling. Check with your local recycling center for guidelines on recycling these items.",
+    "recycleSuggestion": "Plastic plant pots can be recycled into new plastic products, composite lumber, and plastic pallets.",
+    "reuseSuggestion": "Reuse plastic plant pots for gardening, as storage containers, or for organizing small items."
+  },
+  {
+    "id": 29,
+    "material": "CDs and DVDs",
+    "recyclingInfo": "Recycle old CDs and DVDs at designated electronic waste recycling centers. Some programs also accept CDs and DVDs for recycling through mail-in programs.",
+    "recycleSuggestion": "CDs and DVDs can be recycled to recover valuable materials like polycarbonate and aluminum.",
+    "reuseSuggestion": "Reuse CDs and DVDs for crafts, as coasters, or donate them to organizations that can repurpose them."
+  },
+  {
+    "id": 30,
+    "material": "Plastic Utensils",
+    "recyclingInfo": "While not accepted in all recycling programs, some municipalities accept clean plastic utensils for recycling. Check local guidelines for disposal options.",
+    "recycleSuggestion": "Plastic utensils can be recycled into new plastic products, composite lumber, and plastic pallets.",
+    "reuseSuggestion": "Reuse plastic utensils for picnics, parties, or donate them to organizations that can sterilize and redistribute them."
+  }
+]
