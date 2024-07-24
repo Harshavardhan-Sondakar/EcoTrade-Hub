@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/EcoTrade-Hub/static/css/main.5fe36a7b.css",
-    "main.js": "/EcoTrade-Hub/static/js/main.a15cc39f.js",
-    "static/js/453.3a43a69c.chunk.js": "/EcoTrade-Hub/static/js/453.3a43a69c.chunk.js",
-    "static/media/market.png": "/EcoTrade-Hub/static/media/market.22f2f42445748af84a34.png",
-    "static/media/recycling-bin1.jpg": "/EcoTrade-Hub/static/media/recycling-bin1.b7d45b0162a73b784122.jpg",
-    "static/media/Fact-1.png": "/EcoTrade-Hub/static/media/Fact-1.9a876c28a9fd072c69e5.png",
-    "static/media/Recycling-bro.png": "/EcoTrade-Hub/static/media/Recycling-bro.8ac576935fd4995fb007.png",
-    "static/media/Fact-7.jpg": "/EcoTrade-Hub/static/media/Fact-7.aef40578f6b3e7fa0bf6.jpg",
-    "static/media/logo.png": "/EcoTrade-Hub/static/media/logo.f171f2c802d18c5ace86.png",
-    "static/media/Fact-6.jpg": "/EcoTrade-Hub/static/media/Fact-6.cad1fdc5dcfe95c64302.jpg",
-    "static/media/Fact-9.jpg": "/EcoTrade-Hub/static/media/Fact-9.0fdb8f1d7b9ddae758fc.jpg",
-    "static/media/Fact-8.jpg": "/EcoTrade-Hub/static/media/Fact-8.56d28ca0acbf20cc52a5.jpg",
-    "static/media/Fact-5.jpg": "/EcoTrade-Hub/static/media/Fact-5.7bf2fbd2066c11545cfc.jpg",
-    "static/media/Fact-4.jpg": "/EcoTrade-Hub/static/media/Fact-4.3c04372d80cfaf292e71.jpg",
-    "static/media/idea.png": "/EcoTrade-Hub/static/media/idea.6c91ea4b6d381536008d.png",
-    "static/media/Fact-2.png": "/EcoTrade-Hub/static/media/Fact-2.3171b0a0b939176a1945.png",
-    "static/media/Fact-3.png": "/EcoTrade-Hub/static/media/Fact-3.f1b1496a8f6d262c4296.png",
-    "index.html": "/EcoTrade-Hub/index.html",
-    "main.5fe36a7b.css.map": "/EcoTrade-Hub/static/css/main.5fe36a7b.css.map",
-    "main.a15cc39f.js.map": "/EcoTrade-Hub/static/js/main.a15cc39f.js.map",
-    "453.3a43a69c.chunk.js.map": "/EcoTrade-Hub/static/js/453.3a43a69c.chunk.js.map"
+    "main.css": "/home/static/css/main.5fe36a7b.css",
+    "main.js": "/home/static/js/main.d2edcdeb.js",
+    "static/js/453.3a43a69c.chunk.js": "/home/static/js/453.3a43a69c.chunk.js",
+    "static/media/market.png": "/home/static/media/market.22f2f42445748af84a34.png",
+    "static/media/recycling-bin1.jpg": "/home/static/media/recycling-bin1.b7d45b0162a73b784122.jpg",
+    "static/media/Fact-1.png": "/home/static/media/Fact-1.9a876c28a9fd072c69e5.png",
+    "static/media/Recycling-bro.png": "/home/static/media/Recycling-bro.8ac576935fd4995fb007.png",
+    "static/media/Fact-7.jpg": "/home/static/media/Fact-7.aef40578f6b3e7fa0bf6.jpg",
+    "static/media/logo.png": "/home/static/media/logo.f171f2c802d18c5ace86.png",
+    "static/media/Fact-6.jpg": "/home/static/media/Fact-6.cad1fdc5dcfe95c64302.jpg",
+    "static/media/Fact-9.jpg": "/home/static/media/Fact-9.0fdb8f1d7b9ddae758fc.jpg",
+    "static/media/Fact-8.jpg": "/home/static/media/Fact-8.56d28ca0acbf20cc52a5.jpg",
+    "static/media/Fact-5.jpg": "/home/static/media/Fact-5.7bf2fbd2066c11545cfc.jpg",
+    "static/media/Fact-4.jpg": "/home/static/media/Fact-4.3c04372d80cfaf292e71.jpg",
+    "static/media/idea.png": "/home/static/media/idea.6c91ea4b6d381536008d.png",
+    "static/media/Fact-2.png": "/home/static/media/Fact-2.3171b0a0b939176a1945.png",
+    "static/media/Fact-3.png": "/home/static/media/Fact-3.f1b1496a8f6d262c4296.png",
+    "index.html": "/home/index.html",
+    "main.5fe36a7b.css.map": "/home/static/css/main.5fe36a7b.css.map",
+    "main.d2edcdeb.js.map": "/home/static/js/main.d2edcdeb.js.map",
+    "453.3a43a69c.chunk.js.map": "/home/static/js/453.3a43a69c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe36a7b.css",
-    "static/js/main.a15cc39f.js"
+    "static/js/main.d2edcdeb.js"
   ]
 }
